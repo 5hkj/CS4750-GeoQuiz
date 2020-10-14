@@ -1,0 +1,26 @@
+<resources>
+    <!-- MAIN ACTIVITY -->
+    <string name="app_name">FFXIV Quiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="prev_button">PREV</string>
+    <string name="next_button">NEXT</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="already_answered">This question has already been answered.</string>
+    <string name="score_toast">You finished with a score of </string>
+
+    <!-- CHEAT ACTIVITY -->
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">SHOW ANSWER</string>
+    <string name="cheat_button">CHEAT</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+    <!-- QUESTIONS -->
+    <string name="q1">Hydaelyn is the world in which Final Fantasy XIV takes place.</string>
+    <string name="q2">Zodiark represents Light, while Hydaelyn represents dark.</string>
+    <string name="q3">The Warrior of Light is chosen by Hydaelyn, the Mothercrystal.</string>
+    <string name="q4">Emet-Selch was the heart of Zodiark.</string>
+    <string name="q5">Two of the Scions of the Seventh Dawn have been possessed by an Ascian.</string>
+    <string name="q6">The Ascians\' names are actually their titles.</string>
+</resources>
